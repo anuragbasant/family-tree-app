@@ -1,0 +1,21 @@
+.site-header {
+    width: 100%;
+    height: 50px;
+    background-color: teal;
+}
+.site-title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 18px;
+    float: left;
+    padding: 10px;
+    font-style: oblique;
+}
+
+.site-settings {
+    float: right;
+    color: white;
+    padding: 15px;
+    size: 18px;
+    cursor: pointer;
+}
